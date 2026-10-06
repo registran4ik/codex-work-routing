@@ -1,0 +1,4 @@
+interface:
+  display_name: "Route Codex Work"
+  short_description: "Route tasks to focused context, tests, and effort"
+  default_prompt: "Use $route-codex-work to map this task to the relevant source paths, smallest meaningful checks, and sufficient effort."
